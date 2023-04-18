@@ -6,8 +6,9 @@ To je primer _repozitorija_. Naštevanje:
 - drugi
 
 Lahko dodam [link](github.com).
-
 ```python
 s = "Python syntax highlighting"
 print s
 ```
+
+Bla *bla*.
