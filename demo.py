@@ -1,4 +1,4 @@
 # Resen komentar.
-print("Hi mom!")
+print("Hi mom!", end="")
 
 print("Hi dad!")
