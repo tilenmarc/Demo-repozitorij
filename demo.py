@@ -1,1 +1,3 @@
+# komentar
 print("Hi mom!")
+
