@@ -1,7 +1,7 @@
 # Demo-repozitorij
 
 ## Opis
-To je primer _repozitorija_. Naštevanje:
+To je primer _repozitorija_, ki smo ga ustvarili na predavanjih predmeta Uvod v programiranje. Naštevanje:
 - prvi
 - drugi
 
